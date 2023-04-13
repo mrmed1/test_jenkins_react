@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Mohamed Habaieb
+          Hello Mohamed
         </a>
       </header>
     </div>
