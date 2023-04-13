@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Mohamed from React
+          Hello Mohamed
         </a>
       </header>
     </div>
